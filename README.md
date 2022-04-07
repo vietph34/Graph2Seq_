@@ -5,6 +5,10 @@ The data is for the Shortest Path Task whose goal is to find the shortest direct
 
 | Model      | Results |
 | ----------- | ----------- |
-| Paper      | 100%       |
-| Author's checkpoint   | 97.7%        |
-|This version |-|
+| Paper      | 100%   ??    |
+| Author's checkpoint   | 97.7% ??       |
+|This version |37.6%|
+
+There are some problems with the producability of the original code, as the author say that it may because the difference of Python version and TF. 
+
+I even use their model checkpoint but got only **1.9%** accuracy on testset.
